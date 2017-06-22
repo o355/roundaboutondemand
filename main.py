@@ -10,7 +10,7 @@ def musicButtons(btnName):
     if btnName == "Play it":
         pygame.mixer.music.load("song.mp3")
         pygame.mixer.music.play()
-        time.sleep(4)
+        time.sleep(4.5)
         app.infoBox("To be continued", "To be continued...")
     elif btnName == "Stop Music":
         pygame.mixer.music.stop()
