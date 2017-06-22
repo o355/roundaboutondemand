@@ -4,11 +4,14 @@
 import pygame
 from appJar import gui
 import sys
+import time
 
 def musicButtons(btnName):
     if btnName == "Play it":
         pygame.mixer.music.load("song.mp3")
         pygame.mixer.music.play()
+        time.sleep(4)
+        app.infoBox("To be continued", "To be continued...")
     elif btnName == "Stop Music":
         pygame.mixer.music.stop()
     elif btnName == "Close":
