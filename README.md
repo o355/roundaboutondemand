@@ -1,14 +1,7 @@
-# Roundabout On Demand
-Giving you "Yes - Roundabout" on demand.
+Please visit https://gitlab.com/o355/roundaboutondemand for the active repository and code.
 
-# Do you really have to do this?
-Being bored is cool.
+## Why did you move to GitLab?
+I do not want to support GitHub after Microsoft acquired GitHub. I do not support publishing my work on a website owned by an extremely anti-user, pro-proprietary and pro-surveillance company.
 
-# Is there anything different?
-A window with "to be continued" pops up. that's different.
-
-# Dependencies?
-PyGame, appJar, Python 3.
-
-# Are you going to FINALLY include the source song?
-no. download it here: https://owenthe.ninja/raod/song.mp3
+## Why delete your code?
+I do not want my code published on this site anymore.
